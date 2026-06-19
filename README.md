@@ -1,10 +1,9 @@
-# 🧪 Chemistry Lab Assister
+#  Virtual-Chemistry-Experiment-Platform
 
 A Python-based CLI tool that simulates chemistry lab experiments with graphs, calculations, and a built-in viva quiz. Designed to make lab work more interactive, visual, and easier to understand.
 
----
 
-## ✨ Features
+## Features
 
 * Conductometric, Potentiometric & Colorimetric experiments
 * Automatic graph plotting with smooth curves
@@ -13,9 +12,8 @@ A Python-based CLI tool that simulates chemistry lab experiments with graphs, ca
 * Voice-guided navigation using text-to-speech
 * Interactive viva quiz with scoring
 
----
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * NumPy
@@ -27,20 +25,4 @@ A Python-based CLI tool that simulates chemistry lab experiments with graphs, ca
 * psutil
 * termcolor
 
----
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/aishvarya-s/Chemistry-Lab-Assister.git
-cd Chemistry-Lab-Assister
-pip install -r requirements.txt
-```
-
----
-
-## ⚠️ Notes
-* Audio works on macOS (afplay)
-* Internet required for text-to-speech
-
-⭐ If you found this project helpful, please give it a star!
