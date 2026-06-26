@@ -1,4 +1,4 @@
-#  Virtual-Chemistry-Experiment-Platform
+#  LabNova: Virtual Chemistry Laboratory
 
 A Python-based CLI tool that simulates chemistry lab experiments with graphs, calculations, and a built-in viva quiz. Designed to make lab work more interactive, visual, and easier to understand.
 
